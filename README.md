@@ -8,9 +8,8 @@ That's why I hacked this together.
 
 ## Install
 
-Checkout this project, then invoke
 ```shell
-cargo install --path .
+cargo install lprefix
 ```
 
 ## Example
