@@ -4,6 +4,7 @@ authors = ["Tim Satke"]
 version = "0.1.0"
 edition = "2018"
 license = "MIT"
+description = "A tool for prefixing lines in pipes"
 repository = "github.com/tsatke/lprefix"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
