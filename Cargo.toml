@@ -1,0 +1,13 @@
+[package]
+name = "lprefix"
+authors = ["Tim Satke"]
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+repository = "github.com/tsatke/lprefix"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+termion = "1.5.6"
+rand = "0.8.4"
